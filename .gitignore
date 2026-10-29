@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+boost
+receive
+receive.c
+
+
 # Object files
 *.o
 *.ko
